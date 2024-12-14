@@ -1,0 +1,50 @@
+C++     vs     Python
+C++ system programming, semiconductor industry, tool based products
+python: ml, web development, scripting, automation 
+
+Language: python
+
+experience: web development framework
+
+Setup:
+VS Code
+
+github account
+
+leetcode
+
+
+DSA with Python:
+
+Intermediate DSA:
+1. Problem Solving - Time Complexity
+2. Array
+3. Bit Manupation - Tower Research, Goldmann Sachs, Bloomberg and other trading firms
+4. Maths - GCD/HCF, Prime Numbers, Modulo Operations etc..
+5. Subsequence 
+
+
+Advanced DSA:
+1. Arrays
+2. Binary Search
+3. Maths
+4. Bit Manipulation
+5. Hashing
+6. Recursion - Important
+7. Sorting
+8. Strings
+9. Two Pointer - Important
+10.LinkedList - LRU Cache, MRU Cache, Hare and Tortoise Problem 
+11.Stacks and Queues
+12.Tree - Important
+13.Heap
+14.BackTracking
+15.Dynamic Programming - Important
+16.Graphs - Important
+
+OOPS
+
+Project in python
+FastAPI - Web framework
+
+
